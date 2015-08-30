@@ -1,0 +1,9 @@
+Para que ande, tuve que poner en el lpc17xx_lib.ld de app:
+
+ GROUP(
+ libgcc.a
+ libc.a
+ libm.a
+ libg.a
+ libnosys.a
+ )

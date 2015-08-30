@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <?fileVersion 4.0.0?><cproject storage_type_id="org.eclipse.cdt.core.XmlProjectDescriptionStorage">
 	<storageModule moduleId="org.eclipse.cdt.core.settings">
-		<cconfiguration id="com.crt.advproject.toolchain.exe.debug.1542625452">
-			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="com.crt.advproject.toolchain.exe.debug.1542625452" moduleId="org.eclipse.cdt.core.settings" name="Debug">
+		<cconfiguration id="com.crt.advproject.toolchain.exe.debug.1411067766">
+			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="com.crt.advproject.toolchain.exe.debug.1411067766" moduleId="org.eclipse.cdt.core.settings" name="Debug">
 				<externalSettings/>
 				<extensions>
 					<extension id="org.eclipse.cdt.core.GmakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
@@ -15,22 +15,22 @@
 				</extensions>
 			</storageModule>
 			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
-				<configuration buildProperties="" id="com.crt.advproject.toolchain.exe.debug.1542625452" name="Debug" parent="org.eclipse.cdt.build.core.emptycfg">
-					<folderInfo id="com.crt.advproject.toolchain.exe.debug.1542625452.1461219310" name="/" resourcePath="">
-						<toolChain id="com.crt.advproject.toolchain.exe.debug.1236123551" name="Code Red MCU Tools" superClass="com.crt.advproject.toolchain.exe.debug">
-							<targetPlatform binaryParser="org.eclipse.cdt.core.ELF;org.eclipse.cdt.core.GNU_ELF" id="com.crt.advproject.platform.exe.debug.1746563059" name="ARM-based MCU (Debug)" superClass="com.crt.advproject.platform.exe.debug"/>
-							<builder id="com.crt.advproject.builder.exe.debug.4272443" managedBuildOn="false" name="Gnu Make Builder.Debug" superClass="com.crt.advproject.builder.exe.debug"/>
-							<tool id="com.crt.advproject.cpp.exe.debug.239047452" name="MCU C++ Compiler" superClass="com.crt.advproject.cpp.exe.debug"/>
-							<tool id="com.crt.advproject.gcc.exe.debug.776878252" name="MCU C Compiler" superClass="com.crt.advproject.gcc.exe.debug">
-								<inputType id="com.crt.advproject.compiler.input.636527202" superClass="com.crt.advproject.compiler.input"/>
+				<configuration buildProperties="" id="com.crt.advproject.toolchain.exe.debug.1411067766" name="Debug" parent="org.eclipse.cdt.build.core.emptycfg">
+					<folderInfo id="com.crt.advproject.toolchain.exe.debug.1411067766.1740528014" name="/" resourcePath="">
+						<toolChain id="com.crt.advproject.toolchain.exe.debug.143232713" name="Code Red MCU Tools" superClass="com.crt.advproject.toolchain.exe.debug">
+							<targetPlatform binaryParser="org.eclipse.cdt.core.ELF;org.eclipse.cdt.core.GNU_ELF" id="com.crt.advproject.platform.exe.debug.708111713" name="ARM-based MCU (Debug)" superClass="com.crt.advproject.platform.exe.debug"/>
+							<builder id="com.crt.advproject.builder.exe.debug.1129500847" managedBuildOn="false" name="Gnu Make Builder.Debug" superClass="com.crt.advproject.builder.exe.debug"/>
+							<tool id="com.crt.advproject.cpp.exe.debug.314092882" name="MCU C++ Compiler" superClass="com.crt.advproject.cpp.exe.debug"/>
+							<tool id="com.crt.advproject.gcc.exe.debug.1023281948" name="MCU C Compiler" superClass="com.crt.advproject.gcc.exe.debug">
+								<inputType id="com.crt.advproject.compiler.input.319977407" superClass="com.crt.advproject.compiler.input"/>
 							</tool>
-							<tool id="com.crt.advproject.gas.exe.debug.359640930" name="MCU Assembler" superClass="com.crt.advproject.gas.exe.debug">
-								<inputType id="cdt.managedbuild.tool.gnu.assembler.input.1402217372" superClass="cdt.managedbuild.tool.gnu.assembler.input"/>
-								<inputType id="com.crt.advproject.assembler.input.337451753" name="Additional Assembly Source Files" superClass="com.crt.advproject.assembler.input"/>
+							<tool id="com.crt.advproject.gas.exe.debug.1737562527" name="MCU Assembler" superClass="com.crt.advproject.gas.exe.debug">
+								<inputType id="cdt.managedbuild.tool.gnu.assembler.input.1664092137" superClass="cdt.managedbuild.tool.gnu.assembler.input"/>
+								<inputType id="com.crt.advproject.assembler.input.1873118368" name="Additional Assembly Source Files" superClass="com.crt.advproject.assembler.input"/>
 							</tool>
-							<tool id="com.crt.advproject.link.cpp.exe.debug.377847890" name="MCU C++ Linker" superClass="com.crt.advproject.link.cpp.exe.debug"/>
-							<tool id="com.crt.advproject.link.exe.debug.1751541700" name="MCU Linker" superClass="com.crt.advproject.link.exe.debug">
-								<inputType id="cdt.managedbuild.tool.gnu.c.linker.input.1081084301" superClass="cdt.managedbuild.tool.gnu.c.linker.input">
+							<tool id="com.crt.advproject.link.cpp.exe.debug.1604669958" name="MCU C++ Linker" superClass="com.crt.advproject.link.cpp.exe.debug"/>
+							<tool id="com.crt.advproject.link.exe.debug.310208734" name="MCU Linker" superClass="com.crt.advproject.link.exe.debug">
+								<inputType id="cdt.managedbuild.tool.gnu.c.linker.input.1615626526" superClass="cdt.managedbuild.tool.gnu.c.linker.input">
 									<additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>
 									<additionalInput kind="additionalinput" paths="$(LIBS)"/>
 								</inputType>
@@ -46,7 +46,7 @@
 		<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
 	</storageModule>
 	<storageModule moduleId="cdtBuildSystem" version="4.0.0">
-		<project id="TP4_TD2.null.382771151" name="TP4_TD2"/>
+		<project id="TP4_TD2.null.956506621" name="TP4_TD2"/>
 	</storageModule>
 	<storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
 	<storageModule moduleId="refreshScope"/>

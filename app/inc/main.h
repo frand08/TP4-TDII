@@ -17,7 +17,7 @@ int main(void);
 
 #define EEPROM_REGISTER_ADDRESS 0x50
 
-
+void Incializacion_Reload_Ticks(void);
 
 
 

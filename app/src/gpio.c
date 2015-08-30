@@ -5,7 +5,7 @@
  * \brief Funciones de gpio
  *
  */
-#include "gpio.h"
+#include "main.h"
 
 
 
